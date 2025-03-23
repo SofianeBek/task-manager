@@ -1,0 +1,12 @@
+# Ignore Maven build 
+/target/
+
+#ignore log files
+*.log
+
+# Ignore local database files
+*.db
+
+# Ignore temporary files
+*.tmp
+
